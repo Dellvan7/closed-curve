@@ -122,3 +122,9 @@ Prerequisites
 *.exe
 *.out
 *.app
+
+
+
+# drawings file
+cpp/drawings/*
+

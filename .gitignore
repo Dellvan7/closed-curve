@@ -126,5 +126,6 @@ Prerequisites
 
 
 # drawings file
-cpp/drawings/*
+cpp/drawings/*.png
+cpp/drawings/*.jpg
 
